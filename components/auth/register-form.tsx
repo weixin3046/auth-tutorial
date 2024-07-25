@@ -50,7 +50,7 @@ export default function ResgisterForm() {
   return (
     <CardWrapper
       headerLaberl="Welcome back"
-      backButtonLaberl="Don't have an acount"
+      backButtonLaberl="Alerady have an account?"
       backButtonHref="/login"
       showSocial
     >
